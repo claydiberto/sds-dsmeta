@@ -1,5 +1,5 @@
 
-import './styles.css'
+import './styles.css';
 
 function () {
     return (
@@ -7,4 +7,4 @@ function () {
     )
 }
 
-export default 
+export default ;
